@@ -1,6 +1,6 @@
 # management-panel
 
-A web-application for managing resources, products and sales.
+A web-application for managing resources, products and sales. [in-progress...]
 
 ## Requirements
 
